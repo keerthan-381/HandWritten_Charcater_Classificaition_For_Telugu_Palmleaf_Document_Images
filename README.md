@@ -1,0 +1,1 @@
+# HandWritten_Charcater_Classificaition_For_Telugu_Palmleaf_Document_Images
